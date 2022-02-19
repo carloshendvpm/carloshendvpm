@@ -2,7 +2,8 @@
 <h3> 👨: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas na <a href="https://www.unit.br">UNIT</a>.
+- 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas no <a href="https://www.senac.br">SENAC</a>.
+- 👔 &nbsp; Atualmente Estagiário de desenvolvimento na Secretária de Defesa Social de Pernambuco(SDS-PE).
 #
 <div>
 <h3> :rocket: &nbsp;Minhas Skills </h3>
