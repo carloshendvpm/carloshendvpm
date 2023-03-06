@@ -1,10 +1,12 @@
 <h1 align="center"><b>Olá, eu sou o Carlos Henrique </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3> 👨: &nbsp;Sobre mim </h3>
+<h3> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Sobre mim </h3>
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 200px></picture>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas no <a href="https://www.senac.br">SENAC</a>.
 - 👔 &nbsp; Atualmente Estagiário de desenvolvimento na <a href="https://www.seguroviagem.srv.br">Real Seguro Viagem</a>.
-#
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <div>
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
