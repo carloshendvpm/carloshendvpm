@@ -1,4 +1,4 @@
-## Olá, meu nome é Carlos Henrique
+<h1 align="center"><b>Olá, eu sou o Carlos Henrique </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3> 👨: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
