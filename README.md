@@ -3,8 +3,9 @@
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 200px></picture>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas no <a href="https://www.senac.br">SENAC</a>.
 - 🎓 &nbsp; Técnico em Desenvolvimento de Sistemas.
+- 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas no <a href="https://www.senac.br">SENAC</a>.
+
 - 👔 &nbsp; Atualmente Estagiário de desenvolvimento na <a href="https://www.seguroviagem.srv.br">Real Seguro Viagem</a>.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
