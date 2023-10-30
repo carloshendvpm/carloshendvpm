@@ -6,6 +6,7 @@
 - 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas no <a href="https://www.senac.br">SENAC</a>.
 
 - 👔 &nbsp; Atualmente Desenvolvedor Full-stack na <a href="https://www.seguroviagem.srv.br">Real Seguro Viagem</a>.
+- 💻 &nbsp; Confira o meu <a href="carlosdev.tech">site</a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <div>
