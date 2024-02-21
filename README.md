@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Ruby on Rails and Typescript + SvelteKit and NextJS**
 
-- 👨‍💻 All of my projects are available at [carlosdev.tech](carlosdev.tech)
+- 👨‍💻 All of my projects are available at [carlosdev.tech](https://carlosdev.tech)
 
 - 📝 I regularly write articles on [https://medium.com/@hencarlosdv](https://medium.com/@hencarlosdv)
 
