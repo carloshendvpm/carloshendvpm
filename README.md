@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@hencarlosdv](https://medium.com/@hencarlosdv)
 
-- 💬 Ask me about **Neovim, sveltekit and ruby on rails**
+- 💬 Ask me about **Javascript and ruby on rails**
 
 - 📫 How to reach me **hencarlosdv@gmail.com**
 
