@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [Real Seguro Viagem](https://www.seguroviagem.srv.br/)
 
-- 🌱 I’m currently learning **Ruby on Rails and Typescript + SvelteKit and NextJS**
+- 🌱 I’m currently learning **Ruby on Rails and Typescript + SvelteKit**
 
 - 👨‍💻 All of my projects are available at [carlosdev.tech](https://carlosdev.tech)
 
