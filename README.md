@@ -1,6 +1,7 @@
 <h1 align="center">Hello 👋, I'm Carlos Henrique</h1>
 <h3 align="center">A full-stack developer passionate by knowledge</h3>
-- 🔭 I’m currently working at [Real Seguro Viagem](https://www.seguroviagem.srv.br/)
+
+ - 🔭 I’m currently working at [Real Seguro Viagem](https://www.seguroviagem.srv.br/)
 
 - 🌱 I’m currently learning **Ruby on Rails and Typescript + SvelteKit**
 
