@@ -1,8 +1,5 @@
 <h1 align="center">Hello 👋, I'm Carlos Henrique</h1>
 <h3 align="center">A full-stack developer passionate by knowledge</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carloshendvpm" alt="carloshendvpm" /></a> </p>
-
 - 🔭 I’m currently working at [Real Seguro Viagem](https://www.seguroviagem.srv.br/)
 
 - 🌱 I’m currently learning **Ruby on Rails and Typescript + SvelteKit**
