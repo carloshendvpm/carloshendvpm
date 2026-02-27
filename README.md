@@ -6,7 +6,7 @@
 ## 🎓 Academic Background
 
 - 🎓 Master’s Degree in Computer Science (Artificial Intelligence)  
-  Centro de Informática – UFPE (CIn-UFPE)
+  Center of Informatics – UFPE (CIn-UFPE)
 - 🎓 B.Tech in Systems Analysis and Development (Scholarship Student)
 - 📚 Research interests: Machine Learning, Deep Learning, Optimization, and Intelligent Systems
 
