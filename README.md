@@ -62,7 +62,7 @@ RSpec • Cypress • Selenium • Puppeteer
 
 ## 🌍 Links
 
-- 🌐 Portfolio: https://carlosdev.tech  
+- 🌐 Portfolio: https://carloshendvpm.github.io/up_portfolio/  
 - ✍️ Medium: https://medium.com/@hencarlosdv  
 - 📫 Email: hencarlosdv@gmail.com  
 
